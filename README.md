@@ -31,8 +31,6 @@
 
 - 💬 Feel free to ask me about **Django, Python, Docker, and cloud services**.
 
-- 📫 You can reach me at **camiloandresbenitezvaldes@gmail.com**
-
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/)
 <!--Intro end-->
 
@@ -92,7 +90,6 @@
 <!--icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
-  <a href="mailto:camiloandresbenitezvaldes@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="50" width="50" /></a>
 </p>
 
 <!--profile visit count-->
