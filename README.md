@@ -25,7 +25,7 @@
 - 📚 I’m continuously learning and applying **new backend technologies**.
 
 - 💬 Feel free to ask me about **Django, Python, Docker, and cloud services**.
-  
+
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/)
 <!--Intro end-->
 
