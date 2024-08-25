@@ -4,18 +4,17 @@
 
 ### 🌐 Let's Connect
 <a href='www.linkedin.com/in/camilo-benítez-aa6557314'><img align='left' alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height='18px'/></a>
-<a href='mailto:djangobenichi@gmail.com'><img align='left' alt="Email" src="https://img.icons8.com/color/48/000000/gmail.png" height='18px'/></a>
-
 <br/>
 
 ### 👨🏻‍💻 About Me
 
-I’m a backend developer passionate about building robust and scalable web applications using Python and Django. My focus is on creating efficient and secure solutions, leveraging cloud services and best practices in database management.
+I’m a backend developer passionate about building robust and scalable web applications using Python and Django. My focus is on creating efficient and secure solutions, leveraging cloud services, containerization, and best practices in database management.
 
 - 🎓 Systems Engineering student at Universidad de la Costa, Colombia.
 - 💼 Proficient in Python, Django, and RESTful API development.
 - ☁️ Experienced with AWS for deploying and scaling applications.
-- 🗃️ Skilled in database design, optimization, and management (PostgreSQL, MySQL).
+- 🐳 Skilled in containerization using Docker for consistent development and deployment environments.
+- 🗃️ Strong background in database design, optimization, and management (PostgreSQL, MySQL).
 - 🔍 Always exploring new backend tools and techniques.
 
 ### 🔧 Tech Stack
@@ -35,27 +34,29 @@ I’m a backend developer passionate about building robust and scalable web appl
 **Cloud & DevOps:**
 <p>
   <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/-Git%20Bash-333333?style=flat&logo=git" />
 </p>
 
 ### 🚀 What I'm Working On
 
 - 🛠️ **Building RESTful APIs** with Django and Django REST Framework.
+- 🐳 **Containerizing applications** with Docker for consistent environments across development and production.
 - 🌐 **Deploying and scaling web applications** using AWS services like EC2, S3, and RDS.
 - 🗄️ **Optimizing database queries** and ensuring data integrity with PostgreSQL and MySQL.
 - 💡 **Exploring serverless architecture** to create lightweight, efficient solutions.
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BenichiDev&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenichiDev&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IngBenichi&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngBenichi&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27" />
 </p>
 
 ### 🌟 Featured Projects
 
 Here are a few projects that showcase my backend skills:
 
-- **[Django E-commerce Platform](#)**: A scalable e-commerce platform built with Django and PostgreSQL, deployed on AWS.
+- **[Django E-commerce Platform](#)**: A scalable e-commerce platform built with Django and PostgreSQL, deployed on AWS, containerized with Docker.
 - **[RESTful API for a Blogging Platform](#)**: A full-featured API using Django REST Framework, with JWT authentication and role-based access control.
 - **[Database Optimization Project](#)**: Enhanced performance and scalability for a large dataset using advanced indexing and query optimization techniques.
 
