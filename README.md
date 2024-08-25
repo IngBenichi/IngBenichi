@@ -3,7 +3,9 @@
 # Welcome to Benichi's Backend Hub 🛠️
 
 ### 🌐 Let's Connect
-<a href='[www.linkedin.com/in/camilo-benítez-aa6557314](https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/)'><img align='left' alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height='18px'/></a>
+<a href='https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/'><img align='left' alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height='18px'/></a>
+<a href='mailto:camiloandresbenitezvaldes@gmail.com'><img align='left' alt="Email" src="https://img.icons8.com/color/48/000000/gmail.png" height='18px'/></a>
+
 <br/>
 
 ### 👨🏻‍💻 About Me
@@ -48,8 +50,12 @@ I’m a backend developer passionate about building robust and scalable web appl
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IngBenichi&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IngBenichi&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&include_all_commits=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngBenichi&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-count/IngBenichi?style=for-the-badge&color=61dafb&label=Total%20Repositories" />
 </p>
 
 ### 🌟 Featured Projects
