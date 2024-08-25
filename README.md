@@ -1,72 +1,106 @@
-<img src="https://i.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width=100% height=1/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% height=1/>
 
-# Welcome to Benichi's Backend Hub 🛠️
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm IngBenichi</h1></summary>
+  </ul>
+</div>
 
-### 🌐 Let's Connect
-<a href='https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/'><img align='left' alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height='18px'/></a>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+</div>
 
-<br/>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Crafting Backend Solutions with Python & Django</h2></summary>
+  </ul>
+</div>
 
-### 👨🏻‍💻 About Me
+<!--Intro start-->
+- 🔭 I’m currently working on **backend development with Django, containerization with Docker, and cloud deployment on AWS.**
 
-I’m a backend developer passionate about building robust and scalable web applications using Python and Django. My focus is on creating efficient and secure solutions, leveraging cloud services, containerization, and best practices in database management.
+- 🌱 I’m exploring **API design and optimization** to enhance scalable applications.
 
-- 🎓 Systems Engineering student at Universidad de la Costa, Colombia.
-- 💼 Proficient in Python, Django, and RESTful API development.
-- ☁️ Experienced with AWS for deploying and scaling applications.
-- 🐳 Skilled in containerization using Docker for consistent development and deployment environments.
-- 🗃️ Strong background in database design, optimization, and management (PostgreSQL, MySQL).
-- 🔍 Always exploring new backend tools and techniques.
+- ☁️ I have a keen interest in **cloud computing and DevOps**. I regularly work with **AWS**.
 
-### 🔧 Tech Stack
+- 📚 I’m continuously learning and applying **new backend technologies**.
 
-**Languages & Frameworks:**
-<p>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/-Django-333333?style=flat&logo=django" />
-</p>
+- 💬 Feel free to ask me about **Django, Python, Docker, and cloud services**.
 
-**Databases:**
-<p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />
-</p>
+- 📫 You can reach me at **camiloandresbenitezvaldes@gmail.com**
 
-**Cloud & DevOps:**
-<p>
-  <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-Git%20Bash-333333?style=flat&logo=git" />
-</p>
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/)
+<!--Intro end-->
 
-### 🚀 What I'm Working On
-
-- 🛠️ **Building RESTful APIs** with Django and Django REST Framework.
-- 🐳 **Containerizing applications** with Docker for consistent environments across development and production.
-- 🌐 **Deploying and scaling web applications** using AWS services like EC2, S3, and RDS.
-- 🗄️ **Optimizing database queries** and ensuring data integrity with PostgreSQL and MySQL.
-- 💡 **Exploring serverless architecture** to create lightweight, efficient solutions.
-
-### 📈 GitHub Stats
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IngBenichi&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngBenichi&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27" />
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IngBenichi&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" />
+  <br></br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IngBenichi&theme=radical&hide_border=true&background=1A1B27" alt="GitHub Streak" /> 
+</td>
 
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IngBenichi&theme=radical&hide_border=true&bg_color=1A1B27&langs_count=10&layout=compact" alt="Top Languages" />
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=IngBenichi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
+  </a>
+</div>
+<!--- trophy (end) -->
+
+</p>        
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies I Work With 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
 <p align="center">
-  <img src="https://img.shields.io/github/repo-count/IngBenichi?style=for-the-badge&color=61dafb&label=Total%20Repositories" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,aws,docker,postgresql,mysql,git,github,bash" />
+  </a>
 </p>
 
-### 🌟 Featured Projects
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
 
-Here are a few projects that showcase my backend skills:
+<!--icons and links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="mailto:camiloandresbenitezvaldes@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="50" width="50" /></a>
+</p>
 
-- **[Django E-commerce Platform](#)**: A scalable e-commerce platform built with Django and PostgreSQL, deployed on AWS, containerized with Docker.
-- **[RESTful API for a Blogging Platform](#)**: A full-featured API using Django REST Framework, with JWT authentication and role-based access control.
-- **[Database Optimization Project](#)**: Enhanced performance and scalability for a large dataset using advanced indexing and query optimization techniques.
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=IngBenichi&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
-### 📬 Get In Touch
-
-Feel free to reach out if you have any questions, collaboration ideas, or want to chat about backend development. I'm always open to connect with fellow developers!
-
-<img src="https://i.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width=100% height=1/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% height=1/>
