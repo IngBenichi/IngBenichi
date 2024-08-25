@@ -29,6 +29,13 @@
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/)
 <!--Intro end-->
 
+<!-- Education & Experience -->
+<h2 align="center">Education & Experience</h2>
+- 🎓 **Student of Systems Engineering** at **Universidad de la Costa**.
+- 💼 **Backend Developer** Focused on developing scalable backend solutions using Django and Python.
+- 🌍 **Previous Roles**: Experience in various backend technologies including REST APIs, database management, and cloud deployments.
+<!-- Education & Experience end -->
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
