@@ -3,7 +3,7 @@
 # Welcome to Benichi's Backend Hub 🛠️
 
 ### 🌐 Let's Connect
-<a href='www.linkedin.com/in/camilo-benítez-aa6557314'><img align='left' alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height='18px'/></a>
+<a href='[www.linkedin.com/in/camilo-benítez-aa6557314](https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/)'><img align='left' alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height='18px'/></a>
 <br/>
 
 ### 👨🏻‍💻 About Me
