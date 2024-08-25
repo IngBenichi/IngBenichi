@@ -4,7 +4,6 @@
 
 ### 🌐 Let's Connect
 <a href='https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/'><img align='left' alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height='18px'/></a>
-<a href='mailto:camiloandresbenitezvaldes@gmail.com'><img align='left' alt="Email" src="https://img.icons8.com/color/48/000000/gmail.png" height='18px'/></a>
 
 <br/>
 
