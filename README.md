@@ -1,60 +1,85 @@
 <h1 align="center">Camilo Benítez – Software Developer</h1>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ingbenichi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ingbenichi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  Apasionado por el desarrollo backend, amante del fútbol y en constante aprendizaje. Actualmente estudio Ingeniería de Sistemas mientras trabajo desarrollando soluciones eficientes y escalables. 🚀
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-</div>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ingbenichi&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ingbenichi&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ingbenichi/count.svg?"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
+</p>
+
+---
+
+### 💼 Sobre Mí
+
+Camilo Benítez es un desarrollador de software apasionado, con sólida experiencia en desarrollo backend y conocimientos en frontend. Actualmente cursa Ingeniería de Sistemas y trabaja profesionalmente como desarrollador.
+
+- 💡 Arquitectura **controller-service-repository** para APIs REST.
+- ⚙️ Experiencia con **Docker**, despliegue en servidores y control de versiones.
+- 💬 Interacción con APIs de terceros como **Spotify**.
+- 🔐 Manejo de autenticación y control de acceso basado en roles.
+- 🧠 Aplicaciones de **IA** con LLaMA y Laravel.
+- 📈 Fuerte base en bases de datos relacionales como **PostgreSQL** y **MySQL**.
+- 📦 Desarrollo ágil con metodologías como **Scrum**.
+
+---
+
+### 🧩 Proyectos Destacados
+
+✅ **Sistema e-commerce** con Django y PostgreSQL, estructurado en múltiples apps siguiendo buenas prácticas.  
+✅ **Sistema de pedidos para restaurante** con interfaz Flet, Python y sockets.  
+✅ **Gestor de tareas jerárquico** en Django + Tailwind CSS.  
+✅ **API de integración con Spotify** para visualización personalizada de datos.  
+✅ **Chat con IA usando LLaMA** integrado en Laravel para automatización de tareas.  
+✅ **Herramienta de recuperación de datos borrados** en PostgreSQL.
+
+---
+
+### 🌐 Portafolio
+
+📎 Puedes ver más sobre mí y mis proyectos en:  
+👉 [https://portfolio.benichi.online](https://portfolio.benichi.online)
+
+---
+
+### 🤝 Conéctate conmigo
+
+<p align="center">
   <a href="https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="djangobenichi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:djangobenichi@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" />
   </a>
-</div>
+</p>
 
-###
+---
 
-###
-
-<p align="left">Camilo Benítez is a passionate software developer currently studying Systems Engineering while working at a software development company. He has a strong background in backend and frontend development, specializing in Python with frameworks like Django and Flask, as well as Laravel, where he follows a controller-service-repository architecture to consume APIs efficiently. He also has experience with Node.js and Nest.js for building robust backend solutions.  <br><br>On the frontend side, he has worked with Flet for Python-based graphical interfaces and HTML, CSS, and Tailwind CSS for web projects.  <br><br>Camilo is skilled in databases such as PostgreSQL and MySQL, and he understands the importance of efficient data management. He also has experience working with **containers (Docker), deployment strategies, and REST API development for scalable applications.  <br><br>
-Notable Projects  <br>✅ E-commerce system built with Django and PostgreSQL, structured in multiple applications following best architectural practices.  <br>✅ Restaurant ordering system, developed with Python and sockets, featuring a Flet-based interface and Excel data storage.  <br>✅ Task management system based on tree structures, implemented in Django with an optimized Tailwind CSS interface.  <br>✅ Development of an API to interact with Spotify's API, allowing personalized data management.  <br>✅ AI implementation using Meta’s LLaMA, integrating it with Laravel for chat functionality and task automation.  <br>✅ Research and development of a data recovery tool for deleted records in PostgreSQL.  <br><br>In addition to his technical expertise, Camilo applies agile methodologies like Scrum, ensuring efficient project management and resource allocation. He has also worked on user authentication and role-based access control, improving security and system structure.  <br><br>A football enthusiast and always eager for new technological challenges, Camilo continuously hones his software development skills while exploring innovative technologies to create cutting-edge solutions.</p>
-
-###
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ingbenichi/count.svg?" />
+</p>
