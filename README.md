@@ -1,103 +1,186 @@
-<h1 align="center">👋 ¡Hola! Soy Camilo Benítez</h1>
-<h3 align="center">Software Developer | Ingeniero de Sistemas en formación 🚀</h3>
+# Hey, soy Camilo Benítez 👋
+
+### Backend Developer | Building Scalable Systems | Architecting the Future 🚀
 
 ---
-
-<p align="center">
-  Apasionado por construir soluciones robustas y escalables con foco en el **desarrollo backend**. Amante del fútbol y en **constante aprendizaje** de nuevas tecnologías. Actualmente, compagino mis estudios de Ingeniería de Sistemas con el desarrollo profesional de software.
-</p>
-
----
-
-### 💻 Tech Stack & Herramientas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" title="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-</p>
-
-<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge&logo=code" alt="Backend Development Badge">
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge">
-  <img src="https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi" alt="FastAPI Badge">
+  <p>
+    Desarrollador de software apasionado por construir <strong>APIs robustas y escalables</strong> que transforman ideas en soluciones reales.
+    <br/>
+    <strong>Especialista en arquitectura backend</strong> | Django • FastAPI • Node.js | PostgreSQL • Docker • AWS
+  </p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20Proyectos-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.benichi.online)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo%20Benítez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/)
+  [![YouTube](https://img.shields.io/badge/YouTube-@benichi--dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@benichi-dev)
+  [![Email](https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djangobenichi@gmail.com)
 </div>
 
 ---
 
-### 💡 Sobre Mí & Mis Habilidades Clave
+## 🎯 ¿Qué Me Hace Diferente?
 
-Como desarrollador de software con enfoque en el **Backend**, mi objetivo es construir sistemas eficientes, seguros y escalables.
-
-- 🏗️ **Arquitectura de APIs:** Experiencia implementando el patrón **controller-service-repository** para crear APIs RESTful limpias y mantenibles.
-- 🐳 **DevOps Básico:** Dominio de **Docker** para contenerización y despliegue, además de control de versiones con Git.
-- 🔒 **Seguridad y Autenticación:** Implementación de autenticación y control de acceso basado en roles (RBAC).
-- ⚙️ **Integraciones:** Interacción fluida con APIs de terceros (ej: **Spotify**) y desarrollo de integraciones complejas.
-- 🧠 **IA Aplicada:** Desarrollo de POCs con **LLaMA** y Laravel para automatización y procesamiento.
-- 💾 **Bases de Datos:** Fuerte base en bases de datos relacionales como **PostgreSQL** y **MySQL**; optimización y recuperación de datos.
-- 🔄 **Metodologías Ágiles:** Trabajo bajo metodologías como **Scrum** para un desarrollo iterativo y enfocado.
+✨ **Arquitecto de Soluciones** - No solo escribo código, diseño sistemas completos con patrones probados  
+🚀 **Production-Ready** - Experiencia en despliegue, monitoreo y optimización en producción  
+🔒 **Security First** - Implemento autenticación, RBAC y buenas prácticas de seguridad desde el inicio  
+⚡ **Performance Obsessed** - Optimización de bases de datos y APIs que responden en milisegundos  
+🤝 **Team Player** - Metodologías Agile/Scrum, código limpio y documentación profesional
 
 ---
 
-### 🌟 Proyectos Destacados
+## 💻 Tech Stack
 
-Estos son algunos de los proyectos donde he aplicado mis conocimientos para crear soluciones funcionales y robustas:
+<div align="center">
 
-- ✅ **Sistema e-commerce Modular:** Desarrollado con Django y PostgreSQL, estructurado en múltiples aplicaciones siguiendo los principios DRY y buenas prácticas de DDD (Domain-Driven Design).
-- 🍹 **Sistema de Pedidos en Tiempo Real:** Interfaz Flet, Python y sockets para un restaurante, garantizando comunicación instantánea entre cocina y servicio.
-- 📋 **Gestor de Tareas Jerárquico:** Solución full-stack con Django y Tailwind CSS, ideal para la organización de proyectos complejos.
-- 🎵 **API de Integración con Spotify:** Desarrollada para consumir y visualizar datos de usuario de forma personalizada.
-- 💬 **Chatbot con IA (LLaMA):** Integración con el modelo LLaMA en un backend Laravel para automatización de tareas.
-- 🛡️ **Herramienta de Recuperación de Datos:** Utilidad específica en PostgreSQL para la recuperación de registros borrados accidentalmente.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
+### Backend Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### 📊 Mis Estadísticas de GitHub
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ingbenichi&show_icons=true&count_private=true&theme=dracula&hide_border=true&title_color=9A7CD8&icon_color=794BC4&text_color=B9ABDD&bg_color=191D21" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ingbenichi&layout=compact&langs_count=6&theme=dracula&hide_border=true&title_color=9A7CD8&icon_color=794BC4&text_color=B9ABDD&bg_color=191D21" height="150" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ingbenichi&theme=dracula&hide_border=true&fire=9A7CD8&ring=794BC4&currStreakLabel=B9ABDD&currStreakNum=B9ABDD&date_color=9A7CD8&background=191D21" alt="GitHub Streak" />
-</p>
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+### Tools & Others
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🔗 ¡Conéctate Conmigo!
-
-<p align="center">
-  ¿Tienes un proyecto en mente o quieres hablar de tecnología (o fútbol ⚽)? ¡Contáctame!
-</p>
-
-<p align="center">
-  <a href="https://portfolio.benichi.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Ver%20M%C3%A1s-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-CamiloBenítez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:djangobenichi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-djangobenichi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://profile-counter.glitch.me/Ingbenichi/count.svg?">
-    <img src="https://profile-counter.glitch.me/Ingbenichi/count.svg?" alt="Contador de Visitas" />
+## 🏆 Experiencia & Habilidades Clave
+
+### 🎨 Arquitectura de Software
+- **Clean Architecture**: Implementación del patrón controller-service-repository para APIs escalables
+- **API Design**: Diseño de RESTful APIs con versionado, paginación y manejo de errores robusto
+- **SOLID Principles**: Código limpio, mantenible y fácil de extender
+- **Domain-Driven Design (DDD)**: Estructuración de proyectos complejos con separación clara de responsabilidades
+
+### 🔐 Backend & Seguridad
+- **Autenticación & Autorización**: JWT, OAuth2, Role-Based Access Control (RBAC)
+- **Validación de Datos**: Sanitización, validación y manejo seguro de inputs
+- **API Security**: Rate limiting, CORS, encryption, best practices de seguridad
+
+### 🐳 DevOps & Deployment
+- **Containerización**: Docker para aplicaciones consistentes y reproducibles
+- **Cloud Deployment**: Experiencia con AWS (EC2, RDS, S3, Lambda)
+- **CI/CD**: Automatización de testing y despliegue
+
+### 💾 Bases de Datos
+- **Diseño Relacional**: Normalización, índices, foreign keys
+- **Optimización**: Query optimization, EXPLAIN plans, caching strategies
+- **Recuperación de Datos**: Herramientas y técnicas avanzadas para data recovery
+
+### 🧠 IA & Integraciones
+- **LLMs**: POCs con LLaMA para automatización y procesamiento
+- **Third-party APIs**: Integración con Spotify, payment gateways, y otros servicios
+- **Real-time Systems**: Sockets, WebSockets para comunicación instantánea
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 1️⃣ Sistema E-commerce Modular
+**Django | PostgreSQL | DDD | Docker**
+- Arquitectura modular con aplicaciones Django independientes
+- Implementación de patrones DDD para separación de dominios
+- APIs RESTful completas para productos, órdenes y pagos
+- Sistema de inventario en tiempo real
+
+### 2️⃣ API de Integración con Spotify
+**FastAPI | Python | Third-party APIs | Authentication**
+- Consumo de Spotify API con autenticación OAuth2
+- Análisis personalizado de datos de usuario
+- Endpoints optimizados para visualización de datos
+- Documentación automática con Swagger
+
+### 3️⃣ Sistema de Pedidos en Tiempo Real
+**Python | Sockets | Flet | PostgreSQL**
+- Interfaz Flet para kitchen display system
+- Comunicación real-time entre cocina y servicio
+- Notificaciones instantáneas de órdenes
+- Manejo de concurrencia y estado sincronizado
+
+### 4️⃣ Gestor de Tareas Jerárquico
+**Django | Tailwind CSS | Full-Stack**
+- Organización de proyectos complejos con tareas anidadas
+- Interfaz intuitiva y responsiva
+- Sistema de permisos y colaboración
+
+### 5️⃣ Chatbot con IA (LLaMA)
+**Laravel | LLaMA | Backend AI**
+- Integración del modelo LLaMA en backend Laravel
+- Automatización de respuestas y tareas
+- Procesamiento de lenguaje natural
+
+### 6️⃣ Herramienta de Recuperación de Datos
+**PostgreSQL | Advanced SQL | Utilities**
+- Recuperación de registros borrados accidentalmente
+- Herramientas especializadas para PostgreSQL
+- Documentación de procedimientos de recovery
+
+## 📺 Contenido Educativo en YouTube
+
+<div align="center">
+  <a href="https://www.youtube.com/@benichi-dev">
+    <img src="https://yt3.ggpht.com/8YYyRKREtgyRSPBQ0zxuUtJm3fvtGlkUrosKYpcL_RVB15bLg8BZh3njfbvkrt6hzrt1WKfd=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="benichi-dev YouTube Channel" width="150" style="border-radius: 50%; border: 3px solid #FF0000;">
   </a>
-</p>
+</div>
+
+Comparto mi conocimiento a través de **[@benichi-dev](https://www.youtube.com/@benichi-dev)** donde abordo:
+- 🎬 **Tutoriales Backend** - Desarrollo práctico con Django, FastAPI y Node.js
+- 🏗️ **Arquitectura** - Patrones, buenas prácticas y diseño de sistemas
+- 💡 **Tips & Tricks** - Optimización, debugging y productivity
+- 🚀 **Proyectos Reales** - Caso de estudio de aplicaciones en producción
+
+**[👉 Suscríbete y acompaña mi journey en desarrollo](https://www.youtube.com/@benichi-dev)**
+
+---
+
+## 🎓 Formación Continua
+
+- 🎯 **Ingeniería de Sistemas** - En formación
+- 📚 **Aprendizaje Constante** - Nuevas tecnologías, patrones y best practices
+- 🔬 **Investigación** - Arquitectura de microservicios, escalabilidad, performance
+
+---
+
+## 💬 ¿Hablamos?
+
+Estoy siempre abierto a conversar sobre:
+- 💡 Proyectos innovadores y desafiantes
+- 🏗️ Arquitectura de sistemas escalables
+- 🤝 Colaboración en equipo y open source
+- ⚽ Fútbol (sí, también me encanta)
+
+<div align="center">
+
+**[📧 Envíame un Email](mailto:djangobenichi@gmail.com)** • **[💼 Mi Portfolio](https://portfolio.benichi.online)** • **[🔗 LinkedIn](https://www.linkedin.com/in/camilo-ben%C3%ADtez-aa6557314/)** • **[📺 YouTube](https://www.youtube.com/@benichi-dev)**
+
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <strong>"El código no es solo lógica, es arte. Se trata de crear soluciones que no solo funcionan, sino que perduran."</strong>
+  </p>
+  <p>Made with ❤️ by Camilo Benítez</p>
+</div>
